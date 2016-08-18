@@ -27,9 +27,6 @@ namespace Palindromos
 				arrPalabras[nindice]=vpalabra;
 			}
 			
-            //string vpalabra = Console.ReadLine();
-            
-            //ncarateres = new char[vpalabra.Length];
 			 Console.WriteLine("							");
 			 Console.WriteLine("****** Resultado ********");
 			 
